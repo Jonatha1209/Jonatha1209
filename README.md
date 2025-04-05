@@ -1,6 +1,3 @@
-
-# My github stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatha1209)](https://github.com/Jonatha1209/github-readme-stats)
-
-Hello!
+<a href="https://github.com/Jonatha1209/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jonatha1209&repo=github-readme-stats&theme=buefy" />
+</a
