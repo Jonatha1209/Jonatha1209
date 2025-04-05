@@ -1,3 +1,1 @@
-<a href="https://github.com/Jonatha1209/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jonatha1209&repo=github-readme-stats&theme=buefy" />
-</a
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatha1209&langs_count=10&layout=compact&theme=dark)](https://github.com/Jonatha1209/Jonatha1209)﻿
